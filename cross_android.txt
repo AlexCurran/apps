@@ -1,4 +1,5 @@
-watchFrenzy|1.0.0|Beautiful Watches|slide.watchFrenzy.premium|||0|0
+photoMaker|1.0.0|PhotoMaker|slide.photoMaker|||0|0
+watchFrenzy|1.0.0|WatchMaker|slide.watchFrenzy|||0|0
 autoFrenzy|1.0.0|Guess the AutoComplete|slide.autoFrenzy|||0|0
 cameraZoom|5.3.0|Camera ZOOM FX - FREE!|slide.camZoomFree|Take photos that you ♥|You want the best camera as voted by Lifehacker, Gizmodo and SlashGear?``Then find out why everyone loves Camera ZOOM FX.`Take photos of a lifetime!
 diffFrenzy|1.0.0|Guess the Difference|slide.diffFrenzy|||0|0
