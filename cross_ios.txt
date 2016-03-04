@@ -1,4 +1,4 @@
-wordMania|1.3.3|Guess the Word|slide.wordMania|||100|100|0
+wordMania|1.3.3|Guess the Word|slide.wordMania|||0|0|0
 autoFrenzy|1.0.0|Guess the AutoComplete|slide.autoFrenzy|||50|50
 diffFrenzy|1.0.3|Guess the Difference|slide.diffFrenzy|||50|50
 ballFrenzy|1.0.0|One Touch Baseball|slide.ballFrenzy|||50
