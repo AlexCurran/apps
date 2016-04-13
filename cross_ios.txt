@@ -4,5 +4,5 @@ diffFrenzy|1.0.3|Guess the Difference|slide.diffFrenzy|||50|50
 ballFrenzy|1.0.0|One Touch Baseball|slide.ballFrenzy|||50
 flapFrenzy|1.0.1|Tappy Bird|slide.flapFrenzy|||50
 faceFrenzy|1.0.1|Face Mania|slide.faceFrenzy|Do you ♥ face puzzles!|★★★★★`You want some new free face puzzle awesomeness?``Then find out why everyone loves Face Mania.|50|50|50|5=30,6=15,7=15,10=15
-colorFrenzy|1.2.0|Guess the Color|slide.colorFrenzy|Do you ♥ color puzzles!|★★★★★`You want some new free color puzzle awesomeness?``Then find out why everyone loves Guess the Color.`Can you find out what the color is?|100|100|100
+colorFrenzy|1.2.4|Guess the Color|slide.colorFrenzy|Do you ♥ color puzzles!|★★★★★`You want some new free color puzzle awesomeness?``Then find out why everyone loves Guess the Color.`Can you find out what the color is?|100|100|100
 flowFrenzy|1.3.2|Flow Frenzy|slide.flowFrenzy|Connect the Lines|★★★★★`You want some new free flow-puzzle awesomeness?``Then find out why everyone loves Flow Frenzy.`Can you join the lines before they break?|50|50
