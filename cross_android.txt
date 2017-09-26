@@ -1,3 +1,4 @@
+advFrenzy|1.0.0|dungeon.io|slide.advFrenzy|||100|100|0
 carFrenzy|1.0.0|DashMaker - Car Dashboards|slide.carFrenzy|||0|0
 wordMania|1.0.0|Guess the Word|slide.wordMania|||100|100|0
 wordFrenzy|1.0.1|Word Warriors|slide.wordFrenzy|||100|100
