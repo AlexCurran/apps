@@ -1,6 +1,6 @@
 wordMania|1.4.1|Guess the Word|slide.wordMania|||100|100|0
 autoFrenzy|1.0.0|Guess the AutoComplete|slide.autoFrenzy|||50|50
-diffFrenzy|1.0.3|Guess the Difference|slide.diffFrenzy|||100|100
+diffFrenzy|1.0.6|Guess the Difference|slide.diffFrenzy|||100|100
 ballFrenzy|1.0.0|One Touch Baseball|slide.ballFrenzy|||50
 flapFrenzy|1.0.1|Tappy Bird|slide.flapFrenzy|||50
 faceFrenzy|1.0.1|Face Mania|slide.faceFrenzy|Do you ♥ face puzzles!|★★★★★`You want some new free face puzzle awesomeness?``Then find out why everyone loves Face Mania.|50|50|50|5=30,6=15,7=15,10=15
